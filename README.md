@@ -20,7 +20,12 @@ Pulmonary nodules are critical indicators for the early diagnosis of lung cancer
 
 For academic use, please cite:
 ```
-#
+@article{cai2024msdet,
+  title={MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule},
+  author={Cai, Guohui and Cai, Ying and Zhang, Zeyu and Ergu, Daji and Cao, Yuanzhouhan and Hu, Binbin and Liao, Zhibin and Zhao, Yang},
+  journal={arXiv preprint arXiv:2409.14028},
+  year={2024}
+}
 ```
 
 ## Contact us
