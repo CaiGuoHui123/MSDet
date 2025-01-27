@@ -1,8 +1,8 @@
 # MSDet: Receptive Field Enhanced Multiscale Detection for Tiny Pulmonary Nodule
 
-Authors: [Guohui Cai](https://github.com/CaiGuoHui123), [Ying Cai](https://ieeexplore.ieee.org/author/37087137422)*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), [Daji Ergu](https://ieeexplore.ieee.org/author/37085795653), [Yuanzhouhan Cao](https://scholar.google.com/citations?user=-RBi2JcAAAAJ&hl=en), Binbin Hu, [Zhinbin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao#), [Yang Zhao](https://yangyangkiki.github.io/)
+Authors: [Guohui Cai](https://github.com/CaiGuoHui123), Ruicheng Zhang, Hongyang He, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)†, [Daji Ergu](https://ieeexplore.ieee.org/author/37085795653), [Yuanzhouhan Cao](https://scholar.google.com/citations?user=-RBi2JcAAAAJ&hl=en), Jinman Zhao, Binbin Hu, [Zhinbin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao#), [Yang Zhao](https://yangyangkiki.github.io/), [Ying Cai](https://ieeexplore.ieee.org/author/37087137422)*
 
-*Corresponding author
+*Corresponding author. †Project lead.
 
 [[**Paper Link**](https://arxiv.org/abs/2409.14028)] [[Papers With Code](https://paperswithcode.com/paper/msdet-receptive-field-enhanced-multiscale)]
 
