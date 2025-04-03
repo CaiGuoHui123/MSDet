@@ -16,7 +16,42 @@ Pulmonary nodules are critical indicators for the early diagnosis of lung cancer
 
 ![Fig2](https://github.com/user-attachments/assets/6269e425-5987-4712-b9f9-eddff6238b85)
 
-### Code will be released later. Stay tuned.
+### How to Run the Code
+
+To run the MSDet code, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/CaiGuoHui123/MSDet.git
+   cd MSDet
+   ```
+
+2. **Install Dependencies**:
+   Install required Python packages using `pip`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Prepare Dataset**:
+   Download the LUNA16 dataset and place it in the `data/` directory (create this directory if it does not exist).
+
+4. **Train the Model**:
+   You can train the model using the following command:
+   ```bash
+   python go_train.py --config configs/config.yaml
+   ```
+
+5. **Run Inference**:
+   After training the model, you can run inference on test images:
+   ```bash
+   python infer.py --model_path ./checkpoints/best_model.pth --input ./test_images --output ./results
+   ```
+
+6. **Evaluate**:
+   Evaluate the model performance with the following command:
+   ```bash
+   python eval.py --model_path ./checkpoints/best_model.pth --test_data ./test_data
+   ```
 
 ## Citation
 
