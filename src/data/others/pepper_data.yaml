@@ -1,0 +1,12 @@
+# Custom data for safety helmet
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: ../data/lj_yolo_format/images/train
+val: ../data/lj_yolo_format/images/val
+
+# number of classes
+nc: 3
+
+# class names
+# 类别数目
+#names: ['pepper', 'background']
+names: ['pepper', 'un', 'tree']

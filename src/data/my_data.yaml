@@ -1,0 +1,17 @@
+# Custom data for safety helmet
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+#train: F:/Project/Project2023.6.3/target_sfid/images/train
+
+#train: F:/Project/Project2023.6.3 - 副本-这个是在我训34.9元数据集前的项目/target_sfid/images/train
+train: F:/Project/Project2023.6.3 - 黑色的副本-这个是在我训34.9元数据集前的项目 - 副本/target_sfid/images/train
+
+val: F:/Project/Project2023.6.3 - 黑色的副本-这个是在我训34.9元数据集前的项目 - 副本/target_sfid/images/test
+#val: F:/Project/Project2023.6.3 - 副本-这个是在我训34.9元数据集前的项目/target_sfid/images/test
+
+#val: F:/Project/Project2023.6.3/target_sfid/images/test
+
+nc: 1
+
+# class names
+names: ['nodule']#有缺点的，缺陷的
+
