@@ -16,7 +16,7 @@ Pulmonary nodules are critical indicators for the early diagnosis of lung cancer
 
 ![Fig2](https://github.com/user-attachments/assets/6269e425-5987-4712-b9f9-eddff6238b85)
 
-### How to Run the Code
+## How to Run the Code
 
 To run the MSDet code, follow these steps:
 
