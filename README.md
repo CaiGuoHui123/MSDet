@@ -18,7 +18,7 @@ Pulmonary nodules are critical indicators for the early diagnosis of lung cancer
 
 ## How to Run the Code
 
-The main source code is located in the `src/` directory. Please follow the instructions below to run MSDet:
+**The main source code is located in the `src/` directory.** Please follow the instructions below to run MSDet:
 
 1. **Clone the Repository**:
    ```bash
